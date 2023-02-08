@@ -1,0 +1,9 @@
+.Layout {
+    display: flex;
+    background-color: rgb(208, 169, 111);
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding: 140px;
+  }
+  
